@@ -10,7 +10,7 @@
 
 
 int main() {
-	printf("1");
+	printf("master 1");
 
 	return 1;
 }
