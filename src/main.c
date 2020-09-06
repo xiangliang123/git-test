@@ -10,5 +10,7 @@ int main() {
 	printf("master 1");
 	printf("clone 2");
 
+	printf("branch-002 1");
+
 	return 1;
 }
