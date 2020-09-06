@@ -7,7 +7,7 @@
 
 
 int main() {
-	printf("1");
+	printf("clone 2");
 
 	return 1;
 }
