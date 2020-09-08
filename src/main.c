@@ -1,7 +1,7 @@
 /*
  * main.c
  *
- *  Created on: 2020��9��6��
+ *  Created on: 202年9月6日
  *      Author: admin
  */
 
