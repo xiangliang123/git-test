@@ -1,7 +1,7 @@
 /*
  * main.c
  *
- *  Created on: 2020Äê9ÔÂ6ÈÕ
+ *  Created on: 2020ï¿½ï¿½9ï¿½ï¿½6ï¿½ï¿½
  *      Author: admin
  */
 
@@ -9,6 +9,7 @@
 int main() {
 	printf("master 1");
 	printf("clone 2");
+	printf("clion main 1");
 
 	return 1;
 }
