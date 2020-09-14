@@ -1,7 +1,7 @@
 /*
  * test.c
  *
- *  Created on: 2020Äê9ÔÂ6ÈÕ
+ *  Created on: 2020å¹´9æœˆ6æ—¥
  *      Author: admin
  */
 
@@ -13,6 +13,7 @@ int main() {
 	printf("1");
 	printf("2");
 	printf("master 1");
+	printf("clion test commit1");
 
 	return 1;
 }

@@ -6,7 +6,7 @@
  */
 
 
-int main() {
+int test() {
 	printf("master 1");
 	printf("clone 2");
 	printf("clion main 1");
